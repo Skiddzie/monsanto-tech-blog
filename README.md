@@ -1,1 +1,1 @@
-# monsanto-tech-blog
+# just-tech-news
